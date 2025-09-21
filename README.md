@@ -4,12 +4,6 @@ A full-stack web application inspired by Airbnb, built using **Node.js**, **Expr
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click here for live demo](https://project-wanderlust-u6a7.onrender.com/listings)
-
-  This temporary preview was built by another developer and reflects the functionality I worked on in this project.
-
 ## 🚀 Features
 
 - 🔐 **Authentication & Authorization**  
